@@ -9,4 +9,4 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functionsq;
-export PS1="\[\e[1;31m\][\u@workstation\w]$ \[\e[0m\]"
+export PS1="\[\e[1;31m\][\u@node2\w]$ \[\e[0m\]"
